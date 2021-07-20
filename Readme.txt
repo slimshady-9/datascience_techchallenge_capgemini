@@ -1,3 +1,6 @@
+Problem:
+Develop product recommendation engine and detect bias based on data "electronics" and "modcloth"
+
 
 In Solution.ipnyb :
 
